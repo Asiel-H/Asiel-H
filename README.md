@@ -9,6 +9,7 @@ Right now I’m deep into:
 Finishing my B.S. in IT at WGU, aiming toward federal IT and litigation support roles where precision and integrity matter.
 Always learning, always building.
 
+<!--
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
@@ -18,7 +19,8 @@ Always learning, always building.
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-<hr/>
+<hr/>  
+-->
 
 ## 🤳 Connect With Me
 
