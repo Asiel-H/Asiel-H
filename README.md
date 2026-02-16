@@ -16,11 +16,13 @@ Always learning, always building.
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/asiel-h/programmatic-vulnerability-remediations)**
 
 <!--
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>  
+
 -->
 
 ## 🤳 Connect With Me
