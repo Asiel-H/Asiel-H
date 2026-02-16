@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/asiel-harper/">Asiel Harper</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/asiel-harper/">Asiel Harper</a>'s IT and Cybersecurity Project Portfolio 
 Corrections officer turned IT problem‑solver. I’m blending real‑world accountability with technical curiosity—building systems that are reliable, secure, and easy for people to use. I love troubleshooting, documenting processes, and turning messy workflows into clean, repeatable solutions.
 Right now I’m deep into:
 • 	Windows/Linux administration
